@@ -1201,6 +1201,12 @@ img {
       column-gap: 2rem;
    }
 
+   .home__img{
+      align-items: center;
+      justify-content: center;
+      margin: 0 auto;
+   }
+   
    .home__blob{
       width: 270px;
    }
