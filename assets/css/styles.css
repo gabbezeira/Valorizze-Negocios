@@ -466,6 +466,10 @@ img {
    display: inline-block;
 }
 
+.home__img{
+   margin: 0 auto;
+}
+
 /*==================== BUTTONS ====================*/
 .button {
    display: inline-block;
@@ -1156,6 +1160,10 @@ img {
       margin-right: var(--mb-1);
    }
 
+   .home__img{
+      margin: 0 auto;
+   }
+
    .emojis{
       display: inline-block;
    }
@@ -1222,6 +1230,10 @@ img {
 @media screen and (min-width: 568px){
    .home__content{
       grid-template-columns: max-content 1fr 1fr;
+   }
+
+   .home__img{
+      margin: 0 auto;
    }
 
    .emojis{
