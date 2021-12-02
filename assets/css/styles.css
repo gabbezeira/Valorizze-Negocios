@@ -359,6 +359,9 @@ img {
    font-size: 1.25rem;
 }
 
+.emojis{
+   display: inline-block;
+}
 /*==================== BUTTONS ====================*/
 .button {
    display: inline-block;
@@ -1049,6 +1052,10 @@ img {
       margin-right: var(--mb-1);
    }
 
+   .emojis{
+      display: inline-block;
+   }
+
    .nav__menu{
       padding: 2rem .25rem 4rem;
    }
@@ -1113,6 +1120,10 @@ img {
       grid-template-columns: max-content 1fr 1fr;
    }
 
+   .emojis{
+      display: inline-block;
+   }
+
    .home__data{
       grid-column: initial;
    }
@@ -1147,6 +1158,10 @@ img {
 
    body{
       margin: 0;
+   }
+
+   .emojis{
+      display: none;
    }
 
    .section{
@@ -1317,6 +1332,10 @@ img {
       padding:0;
    }
 
+   .emojis{
+      display: none;
+   }
+   
    .home__blob{
       width: 320px;
    }
