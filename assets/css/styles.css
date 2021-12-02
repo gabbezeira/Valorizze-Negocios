@@ -21,7 +21,7 @@
    --container-color: #FFF;
    --scroll-bar-color: hsl(var(--hue-color), 12%, 90%);
    --scroll-thumb-color: hsl(var(--hue-color), 12%, 80%);
-   --cookies-color: rgba(0, 0, 0, 0.918);
+   --cookies-color: rgba(0, 0, 0, 0.952);
    --cookies-text: #fff;
 
    /*========== Font and typography ==========*/
