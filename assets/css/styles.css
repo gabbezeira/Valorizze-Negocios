@@ -21,7 +21,7 @@
    --container-color: #FFF;
    --scroll-bar-color: hsl(var(--hue-color), 12%, 90%);
    --scroll-thumb-color: hsl(var(--hue-color), 12%, 80%);
-   --cookies-color: rgba(0, 0, 0, 0.952);
+   --cookies-color: rgba(0, 0, 0, 0.973);
    --cookies-text: #fff;
 
    /*========== Font and typography ==========*/
@@ -256,7 +256,7 @@ img {
       right: 0;
       left: 0;
       max-width: 360px;
-      background: rgba(0, 0, 0, 0.918);
+      background: var(--cookies-color);
       padding: 25px 25px 25px 25px;
       border-radius: 15px;
       box-shadow: 1px 7px 20px -5px rgba(0, 0, 0, 0.205);
