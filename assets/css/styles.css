@@ -203,7 +203,7 @@ img {
  .wrapper.hide{
    opacity: 0;
    pointer-events: none;
-   transition: all 0.3s ease;
+   transition: all 0.1s ease;
  }
  ::selection{
    color: var(--cookies-text);
