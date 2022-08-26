@@ -4,7 +4,7 @@
 
 # Valorizze Negócios
 
-Site desenvolvido para a empresa de Planos de Saúde, Valorizze Negócios usando a técnica mobile first. 
+Site desenvolvido para a empresa de Planos de Saúde, Valorizze Negócios usando a técnica mobile first. (https://valorizze.netlify.app/)
 
 ## 🔧 Tipo de Projeto
 
